@@ -1,0 +1,11 @@
+== 1. top 10 Largest Files ===
+4.0K	./assets
+4.0K	./automation
+4.0K	./backups
+8.0K	./monitoring
+4.0K	./reports
+52K	./website
+
+=== 4. Files Modified in Last 24 Hours ===
+
+=== 5. Empty Files ===
